@@ -177,7 +177,7 @@ public class QuizApp extends JFrame implements ActionListener {
                 "a"}
 };
 
-        private JPanel centro;
+        private final JPanel centro;
 
         public QuizApp() {
                 super("Quiz - Fundamentos de Software");
