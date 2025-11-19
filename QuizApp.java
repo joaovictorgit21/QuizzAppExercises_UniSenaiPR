@@ -168,7 +168,7 @@ public class QuizApp extends JFrame implements ActionListener {
                 "E) Diagrama de Classe e Diagrama de Sequência.",
                 "a"},
 
-        {"5) 5) Uma empresa de desenvolvimento de aplicativos financeiros deseja garantir que cada módulo do sistema funcione corretamente de forma isolada antes de integrar todos os módulos. Para isso, os desenvolvedores criam testes focados em funções específicas, verificando entradas e saídas esperadas de cada componente individualmente. Nesse cenário, está sendo aplicado o Teste",
+        {"5) Uma empresa de desenvolvimento de aplicativos financeiros deseja garantir que cada módulo do sistema funcione corretamente de forma isolada antes de integrar todos os módulos. Para isso, os desenvolvedores criam testes focados em funções específicas, verificando entradas e saídas esperadas de cada componente individualmente. Nesse cenário, está sendo aplicado o Teste",
                 "A) Unitário.",
                 "B) de Integração.",
                 "C) de Sistema.",
