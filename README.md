@@ -161,4 +161,4 @@ III. Suporte a 500 usuários simultâneos
 **C, A, B, A, A**
 
 ## Link do Repositório - Para mais atualizações
-https://github.com/joaovictorgit21/QuizzAppExercises_UniSenaiPR/edit/main/
+[https://github.com/joaovictorgit21/QuizzAppExercises_UniSenaiPR](https://github.com/joaovictorgit21/QuizzAppExercises_UniSenaiPR)
