@@ -159,3 +159,6 @@ III. Suporte a 500 usuários simultâneos
 
 ### ✔️ **Gabarito — Nível Difícil**
 **C, A, B, A, A**
+
+## Link do Repositório - Para mais atualizações
+https://github.com/joaovictorgit21/QuizzAppExercises_UniSenaiPR/edit/main/
