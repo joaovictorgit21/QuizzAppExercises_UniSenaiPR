@@ -162,3 +162,5 @@ III. Suporte a 500 usuários simultâneos
 
 ## Link do Repositório - Para mais atualizações
 [https://github.com/joaovictorgit21/QuizzAppExercises_UniSenaiPR](https://github.com/joaovictorgit21/QuizzAppExercises_UniSenaiPR)
+
+# By João Victor Farias da Silva and Danilo Wagner Odelon
