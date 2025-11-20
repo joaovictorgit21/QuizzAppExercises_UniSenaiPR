@@ -252,7 +252,7 @@ public class QuizApp extends JFrame implements ActionListener {
                 centro.removeAll();
 
                 perguntaLabel.setText(
-                        "<html><div style='width: 1450px;'>" + perguntas[indice][0] + "</div></html>"
+                        "<html>" + perguntas[indice][0] + "</html>"
                 );
                 centro.add(perguntaLabel);
 
